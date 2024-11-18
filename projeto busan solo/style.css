@@ -1,0 +1,116 @@
+
+:root{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #F5F4F0;
+}
+#page{
+    width: 1120px;
+    background-color: white;
+    box-sizing: border-box;
+    margin: 50px auto;
+    padding: 40px;
+}
+
+#fundo{
+    width: 1350px;
+    background-color: #29292E;
+    border-radius: 40px;
+    box-sizing: border-box;
+    margin: 45px auto;
+    padding: 40px;
+}
+img{
+    border-radius: 40px;
+    width: 100%;
+}
+.espaço1 {
+    margin-bottom: 40px;
+}
+.espaço2
+{
+    margin: 64px 0px;
+}
+.espaço3{
+    margin: 48px 0px;
+}
+.espaço4{
+        width: 100%;
+        height: 1px;
+        margin: 36px 0;
+        background-color: #d9d9d9;     
+}
+.espaço5
+{
+    margin-top: 24px;
+}
+h2{
+    color: #E1624F;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: top left;
+    
+}
+h1{
+    color: #1B1B1B;
+    font-family: "Open Sans", sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    text-align: top left;
+}
+h3{
+    color: #1B1B1B;
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    text-align: top left;
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    text-align: top left;
+}
+sub{
+    font-size: 1em;
+    line-height: 22px;
+    font-style: italic;
+    text-align: center;
+    color: #333333;
+}
+.negrito
+{
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+}
+.cor
+{
+    color: #0C51A7;
+}
+ul
+{
+    color: #0C51A7;
+    text-align: left top;
+}
+.roxo{
+color: #591B98;
+text-align: top left;
+}
+.rosa{
+color: #E5245E;
+}
+.laranja{
+color: #E95E10;
+}
+footer{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+}
